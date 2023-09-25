@@ -5,4 +5,4 @@ based on certain diagnostic measurements included in the dataset. Several constr
 on the selection of these instances from a larger database. In particular, all patients here are females
 at least 21 years old of Pima Indian heritage.
 
-Tools Used : Excel, Tableau
+Tools Used : Excel, Python
